@@ -1,1 +1,5 @@
-theme: jekyll-theme-cayman
+theme: minima
+title: MightyMac
+header_pages:
+  - intellidock/index.html
+  - contact.html

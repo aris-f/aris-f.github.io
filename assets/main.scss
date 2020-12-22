@@ -1,0 +1,15 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "main";
+
+.img-sm {
+  width: 100%
+}
+
+@media (min-width: 768px) {
+  .img-sm {
+    width: 50% !important;
+  }
+}

@@ -13,3 +13,13 @@
     width: 50% !important;
   }
 }
+
+.form-sm {
+  width: 90%
+}
+
+@media (min-width: 768px) {
+  .form-sm {
+    width: 50% !important;
+  }
+}

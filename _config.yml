@@ -2,5 +2,5 @@ remote_theme: jekyll/minima
 title: MightyMac
 header_pages:
   - intellidock/index.html
-  - contact
+  - contact.html
 google_analytics: GTM-P33J3ZJ

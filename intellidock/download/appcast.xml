@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>IntelliDock</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Wed, 23 Dec 2020 11:02:38 +0700</pubDate>
+            <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+            <enclosure url="https://mightymac.app/intellidock/download/IntelliDock-1.0.dmg" sparkle:version="1" sparkle:shortVersionString="1.0" length="7932712" type="application/octet-stream" sparkle:edSignature="6ppADZ/XeySQEfDUDvoILIx5/cQnrcH04tPBvC0ALztpBOkswWHNEEaik2dzN0t73F8Q+EEFNL9PSS8G8sNAAg=="/>
+        </item>
+    </channel>
+</rss>
